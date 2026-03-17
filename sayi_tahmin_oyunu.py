@@ -1,5 +1,5 @@
 import random
-sayi = random.randint(1,100) # bilgisayar 1'den 100'e kadar rastgele bir sayı tutar.  (100 dahil)
+sayi = random.randint(1,100) 
 
 tahmin = int(input("Lütfen bir sayı tahmin ediniz : "))
 sayac = 0
